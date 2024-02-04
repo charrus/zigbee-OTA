@@ -5,7 +5,7 @@ const tls = require('tls');
 const ota = require('../lib/ota');
 const filenameOrURL = process.argv[2];
 const modelId = process.argv[3];
-const baseURL = 'https://github.com/Koenkk/zigbee-OTA/raw/master';
+const baseURL = 'https://github.com/charrus/zigbee-OTA/raw/master';
 const caCerts = './cacerts.pem';
 
 const manufacturerNameLookup = {

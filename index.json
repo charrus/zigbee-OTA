@@ -887,8 +887,8 @@
         "path": "images/Ledvance/Undercabinet_TW_Z3_IM0046_00103101-encrypted_11_20_2018_Tue_101550_96_withoutMF.ota"
     },
     {
-        "fileVersion": 87,
-        "fileSize": 234174,
+        "fileVersion": 69,
+        "fileSize": 274398,
         "manufacturerCode": 4098,
         "manufacturerName": [
             "_TZE200_kds0pmmv",
@@ -898,9 +898,9 @@
             "_TZE200_cpmgn2cf"
         ],
         "imageType": 5634,
-        "sha512": "1113486a67403d922fc4a462b7477e0a0986fa8862a89b74ab8c5eac7b4ecb31c30f1da9ae1bbc1d6d50ae1fed66d38c37a1834ab71fd384c0555002783aba13",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/1615190575-si32_zg_uart_connect_sleep_ZS5_ty_OTA_1.1.7.bin",
-        "path": "images/Tuya/1615190575-si32_zg_uart_connect_sleep_ZS5_ty_OTA_1.1.7.bin"
+        "sha512": "d8a74b382adae13cc47ee4632f642511887f2efb9a82dadd84f374aeb8f6b50b53796799ff2272b0ee06c6104868197a7d3e724f3cb9ccb7d3415c8976ce9e11",
+        "url": "https://github.com/charrus/zigbee-OTA/raw/master/images/Tuya/1628482144-oem_si32_zg_mg21_measure_plug_OTA_1.0.5.bin",
+        "path": "images/Tuya/1628482144-oem_si32_zg_mg21_measure_plug_OTA_1.0.5.bin"
     },
     {
         "fileVersion": 57,
